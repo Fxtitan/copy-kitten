@@ -1,0 +1,102 @@
+
+    #row-1, #row-2, #row-3 {padding: 10px;
+    }
+
+    #row-1 {
+    border-collapse:separate;
+    }
+    #cell-2 { 
+    padding: 5px; 
+    border-bottom: 2px solid #bf4242;
+    border-left: 2px solid #5bbf42;
+    border-right: 2px solid #bf4242; 
+    text-align: center;
+    }
+
+    #row-1 {
+        border-collapse:separate;
+        }
+        #cell-1 { 
+        padding: 5px; 
+        border-bottom: 2px solid #bf4242;
+        border-right: 2px solid #bf4242; 
+        text-align: center;
+        }
+
+        #row-1 {
+            border-collapse:separate;
+            }
+            #cell-3 { 
+            padding: 5px; 
+            border-bottom: 2px solid #bf4242;
+            border-left: 2px solid #5bbf42;
+            text-align: center;
+            }
+
+            #row-2 {
+                border-collapse:separate;
+                }
+                #cell-4 { 
+                padding: 5px;
+                border-top: 2px solid #5bbf42; 
+                border-bottom: 2px solid #bf4242;
+                border-right: 2px solid #bf4242; 
+                text-align: center;
+                }
+
+                #row-2 {
+                    border-collapse:separate;
+                    }
+                    #cell-5 { 
+                    padding: 5px; 
+                    border-bottom: 2px solid #bf4242;
+                    border-right: 2px solid #bf4242;
+                    border-left: 2px solid #5bbf42;
+                    border-top: 2px solid #5bbf42; 
+                    text-align: center;
+                    }
+                    #row-2 {
+                        border-collapse:separate;
+                        }
+                        #cell-6 { 
+                        padding: 5px; 
+                        border-bottom: 2px solid #bf4242;
+                        border-left: 2px solid #5bbf42;
+                        border-top: 2px solid #5bbf42; 
+                        text-align: center;}
+
+                        #row-3 { border-collapse: separate;}
+                        #cell-7 {padding: 5px; 
+                            border-right: 2px solid #5bbf42;
+                            border-top: 2px solid #5bbf42; 
+                            text-align: center;}
+
+                            #row-3 {
+                                border-collapse:separate;
+                                }
+                                #cell-8 { 
+                                padding: 5px; 
+                                border-right: 2px solid #bf4242;
+                                border-left: 2px solid #5bbf42;
+                                border-top: 2px solid #5bbf42; 
+                                text-align: center;
+                                }
+
+                                #row-3 {
+                                    border-collapse:separate;
+                                    }
+                                    #cell-9 { 
+                                    padding: 5px; 
+                                    border-left: 2px solid #5bbf42;
+                                    border-top: 2px solid #5bbf42; 
+                                    text-align: center;
+                                    }
+
+                            
+
+
+
+
+
+
+ 
